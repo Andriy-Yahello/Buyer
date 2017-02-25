@@ -1,0 +1,6 @@
+E:\app\C#pro\lesson2\Buyer\Buyer\bin\Debug\Buyer.exe.config
+E:\app\C#pro\lesson2\Buyer\Buyer\bin\Debug\Buyer.exe
+E:\app\C#pro\lesson2\Buyer\Buyer\bin\Debug\Buyer.pdb
+E:\app\C#pro\lesson2\Buyer\Buyer\obj\Debug\Buyer.csprojResolveAssemblyReference.cache
+E:\app\C#pro\lesson2\Buyer\Buyer\obj\Debug\Buyer.exe
+E:\app\C#pro\lesson2\Buyer\Buyer\obj\Debug\Buyer.pdb
